@@ -1,0 +1,19 @@
+/* Apply styles to the whole page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light blue background */
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Style for the heading */
+h1 {
+    color: #2c3e50;
+}
+
+/* Style for the paragraph */
+p {
+    color: #34495e;
+    font-size: 18px;
+}
